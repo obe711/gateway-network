@@ -1,0 +1,10 @@
+{
+  "name": "server-network",
+  "version": "1.0.0",
+  "description": "API to connect multipul servers together",
+  "main": "index.js",
+  "repository": "https://github.com/obe711/server-network",
+  "author": "Obediah Benjamin Klopfenstein",
+  "license": "MIT",
+  "private": true
+}
