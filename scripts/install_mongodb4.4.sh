@@ -12,3 +12,6 @@ sudo systemctl start mongod
 sudo systemctl daemon-reload
 sudo systemctl status mongod
 sudo systemctl enable mongod
+# DB TOOLS
+sudo dpkg -l mongodb-database-tools
+sudo apt install ./mongodb-database-tools-*-100.3.1.deb
